@@ -1,2 +1,2 @@
-# airdrop
-Airdrop good joob
+# sniper PancakeSwap
+Snipers PancakeSwap to termux by python
